@@ -37,9 +37,9 @@
 ---
 
 ## 📬 Contato
-- 📧 E-mail: [Vitor Pereira](mailto:vp080959@gmail.com)  
+- 📧 E-mail: [Vitor Pereira](vp080959@gmail.com)  
 - 💼 LinkedIn: [Vitor Pereira](www.linkedin.com/in/vitor-pereira-2ab6b831a)  
-- 🌎 INSTAGRAM: [@eisilvavitor](https://seusite.com)  
+- 🌎 INSTAGRAM: [@eisilvavitor](https://www.instagram.com/eisilvavitor/)  
 
 ---
 
