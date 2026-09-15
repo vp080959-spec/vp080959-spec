@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Vitor Silva Pereira!
 
 🎓 Estudante apaixonado por informatica e programação.  
-🚀 Faço parte do Ensino Medio Tecnico Integral(EMTI) da Escola Estadual Embaixador José Bonifacio/Barbacena-Mg.  
+🚀 Estudei no Ensino Medio Tecnico Integral(EMTI) da Escola Estadual Embaixador José Bonifacio/Barbacena-Mg.  
 📚 Gosto de aprender e compartilhar conhecimento através de projetos práticos e colaborativos.  
 
 ---
 
 ## 🔎 Áreas de Interesse 
-- 💻 Desenvolvimento Web & Mobile  
+- 💻 Desenvolvimento Web  
 - ⚙️ Programação de Sistemas  
 
 ---
